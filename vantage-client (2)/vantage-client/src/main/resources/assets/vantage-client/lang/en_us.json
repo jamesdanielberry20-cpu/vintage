@@ -1,0 +1,8 @@
+{
+  "key.categories.vantage-client": "Vantage Client",
+  "key.vantage-client.toggle_esp": "Toggle ESP",
+  "key.vantage-client.toggle_entity_info": "Toggle Entity Info",
+  "key.vantage-client.toggle_flight": "Toggle Flight",
+  "key.vantage-client.open_gui": "Open ClickGUI",
+  "key.vantage-client.toggle_reach": "Toggle Reach Modifier"
+}
